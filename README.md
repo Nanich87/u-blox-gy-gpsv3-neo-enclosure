@@ -1,1 +1,1 @@
-# u-blox-gy-gpsv3-neo-enclosure
+# u-blox GY-GPSV3-NEO Enclosure
